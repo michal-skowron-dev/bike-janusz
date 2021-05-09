@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Bike Janusz</string>
+    <string name="text_view_1">Stacja Początkowa</string>
+    <string name="text_view_2">Stacja Docelowa</string>
+    <string name="button_1">Wyświetl Szczegóły</string>
+    <string name="button_2">Wyświetl Mapę</string>
+    <string name="button_3">Najbliższa Stacja</string>
+
+    <string name="error">Wybrano te same stacje!</string>
+
+    <string-array name="stations">
+        <item>Narutowicza - Potulicka:9328</item>
+        <item>Rondo Giedroycia:9301</item>
+        <item>Jasne Błonia - Piotra Skargi:9302</item>
+        <item>Floating Arena:9303</item>
+        <item>Urząd Miasta Szczecin:9304</item>
+        <item>Sejmik - al. Boh. Warszawy:9305</item>
+        <item>Wielkopolska - Monte Cassino:9306</item>
+        <item>Jagiellońska - al. Boh. Warszawy:9307</item>
+        <item>Plac Szarych Szeregów:9308</item>
+        <item>Plac Grunwaldzki:9309</item>
+        <item>Plac Rodła - al. Wyzwolenia:9310</item>
+        <item>Plac Rodła - PZU:9311</item>
+        <item>Pomnik Mickiewicza - Szczerbcowa:9312</item>
+        <item>Muzeum Narodowe - Wały Chrobrego:9313</item>
+        <item>Niemierzyńska - Technopark:9314</item>
+        <item>Zamek Książąt Pomorskich:9315</item>
+        <item>Plac Żołnierza Polskiego:9316</item>
+        <item>Deptak Bogusława:9317</item>
+        <item>Plac Zgody:9318</item>
+        <item>Plac Kościuszki:9319</item>
+        <item>Krzywoustego - CH Kupiec:9320</item>
+        <item>Brama Portowa:9321</item>
+        <item>Plac Orła Białego:9322</item>
+        <item>Wyszyńskiego:9323</item>
+        <item>Książnica Pomorska:9324</item>
+        <item>Wyzwolenia:9325</item>
+        <item>Dworzec Główny PKP - Kolumba:9326</item>
+        <item>Dworzec Główny PKP - 3 Maja:9327</item>
+        <item>Plac Dziecka - Narutowicza:9329</item>
+        <item>Al. Piastów - Sowińskiego:9330</item>
+        <item>ZUT - Pułaskiego:9331</item>
+        <item>Rondo Siwka:9332</item>
+        <item>Ku Słońcu - Biblioteka Główna ZUT:9333</item>
+        <item>Rondo Uniwersyteckie - Kampus US:9334</item>
+        <item>Jezioro Słoneczne:9335</item>
+        <item>Medicus:9336</item>
+        <item>Turzyn:9337</item>
+        <item>Chopina - Krasińskiego:9338</item>
+        <item>Niemierzyńska - Krasińskiego:9339</item>
+        <item>Wyspiańskiego:9340</item>
+        <item>Słowackiego - ZUT:9341</item>
+        <item>26 Kwietnia - Osiedle Przyjaźń:9342</item>
+        <item>Wojska Polskiego - Lodogryf:9343</item>
+        <item>Mickiewicza US:9344</item>
+        <item>Krasińskiego -  Wszystkich Świętych:9345</item>
+        <item>Chopina - Wszystkich Świętych:9346</item>
+        <item>Arkońska Szpital:9347</item>
+        <item>Santocka - Witkiewicza:9348</item>
+        <item>Kwiatowa:9349</item>
+        <item>Brama Główna CC:9350</item>
+        <item>Mieszka I - Milczańska:9351</item>
+        <item>Stara Cegielnia:9352</item>
+        <item>Przyjaciół Żołnierza – CH Wilcza:9353</item>
+        <item>Centrum Edukacji Ogrodniczej:9201</item>
+        <item>Rondo Zdroje:9202</item>
+        <item>Batalionów Chłopskich - Gryfińska SST:9203</item>
+        <item>PKP Szczecin Zdroje:9204</item>
+        <item>Pętla SST Turkusowa Lewa:9205</item>
+        <item>Pętla SST Turkusowa Prawa:9206</item>
+        <item>Szpital Zdroje:9207</item>
+        <item>Jasna Osiedle:9208</item>
+        <item>Jasna - Targowisko:9209</item>
+        <item>Trzeci US - Heliosy:9210</item>
+        <item>Filia UM Prawobrzeże:9211</item>
+        <item>Rydla - Szkoły:9212</item>
+        <item>Pętla Słoneczne - Łubinowa:9213</item>
+        <item>Lubinowa - Dąbrowskiej:9214</item>
+        <item>CH Słoneczne:9215</item>
+        <item>Iwaszkiewicza - Andrzejewskiego:9216</item>
+        <item>Struga - Eko Dom:9217</item>
+        <item>Struga - Leroy Merlin:9218</item>
+        <item>Stacyjna - PKP:9219</item>
+        <item>Goleniowska - LO III:9220</item>
+        <item>Gierczak - Krzywoń:9221</item>
+        <item>Wrzesińska - Goleniowska:9222</item>
+        <item>Pomorska - Potok:9223</item>
+        <item>Zwierzyniecka - pętla:9224</item>
+        <item>Dąbska - Gwarna:9225</item>
+        <item>Chłopska - Kolorowych Domów:9226</item>
+        <item>Chłopska – Nad Rudzianką:9227</item>
+        <item>Pętla Bukowe:9228</item>
+        <item>Kolorowych Domów - Beżowa:9229</item>
+        <item>Staw Brodowski:9354</item>
+        <item>Powstańców Wielkopolskich B. PUM:9355</item>
+        <item>Sczanieckiej:9356</item>
+        <item>Duńska:9357</item>
+        <item>Nabrzeże Starówka:9358</item>
+    </string-array>
+</resources>
